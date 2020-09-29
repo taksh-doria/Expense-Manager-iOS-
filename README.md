@@ -1,2 +1,2 @@
 # Expense-Manager-iOS-
-A expense app built in swift
+A expense app built in swift(incomplete)
